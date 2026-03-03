@@ -58,7 +58,7 @@ const config = {
         title: '',
         logo: {
           alt: '',
-          src: '', 
+          src: 'img/logo.svg', 
         },
         items: [], // No extra links in navbar
       },
