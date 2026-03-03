@@ -10,7 +10,7 @@ const config = {
   // Set the production url of your site here
   url: 'https://jacksteve-code.github.io',
   // Set the /<baseUrl>/ for your project. For GitHub pages, it is often '/projectName/'
-  baseUrl: '/', 
+  baseUrl: '/MY-AI-WORKS/', 
 
   // GitHub pages deployment config.
   organizationName: 'jacksteve-code', 
